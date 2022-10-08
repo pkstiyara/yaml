@@ -1,0 +1,10 @@
+name : Pankaj
+age : 28
+server :
+    name : "ec2"
+    capacity : 100GB
+    
+social_media :
+- linkedin-pkstiyara
+- facebook-pkstiyara
+- insta-pkstiyara
