@@ -1,0 +1,23 @@
+# We can always embed a sequence into another sequence
+
+application:
+ - cards
+ - Loans
+ - Accounts
+departments:
+   - Marketing
+   - Insurance
+   - Security
+locations: [hyderabad, newyork, Berlin, Paris]
+
+products:
+   - Accounts:
+       - Savings Accounts
+       - Current Accounts
+   - Loans:
+       - Home Loans
+       - Car Loans
+       - Personal Loans
+   - Cards:
+       - Credit Cards
+       - Debit Cards
