@@ -1,5 +1,9 @@
 # yaml
 This is the repository for learning YAML
+Offical Website 
+
+www.yaml.org
+
 
 that works on key and value method
 
@@ -14,4 +18,7 @@ Scalers
 
 Online tools to validate the YAML files
 
+# YAML Usecase
+
+YAML is widely used in writing configurations files in different DevOps tools, cloud platform and applications
 
