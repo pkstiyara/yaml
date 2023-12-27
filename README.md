@@ -1,9 +1,17 @@
 # yaml
 This is the repository for learning YAML
 
-YAML is key value pair language and used many places 
-
 that works on key and value method
 
 key : value
+
+YAML Basic Concepts
+
+YAML is a light-weight, human readable data serialization language. It is primarily designed to make the format easy to read while including advanced features
+
+YAML is similar inline style to JSON ( Superset of JSON )
+Scalers
+
+Online tools to validate the YAML files
+
 
