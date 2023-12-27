@@ -1,0 +1,20 @@
+---
+#YAML offers versaltility in the typing br auto-detecting data types whilw also supporting explicit typing options
+
+superset of json: !!bool true
+Pluto is a planer: !!bool false
+
+negative: !!int -16
+
+positive-float: !!float 16.0
+randomdate: !!timestamp 2023-01-01 02:15:55
+
+null: !!null null
+
+#Timestamp value repress a single point in time. It is a helful data type that lets you store times as a unit rather than as a collection of different time zone.
+
+#canonical
+#iso8601
+#space separated
+#no time zone
+#date

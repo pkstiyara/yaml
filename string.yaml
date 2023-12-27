@@ -1,0 +1,14 @@
+# We can use > (folded style ) to removes newlines withing the string
+
+organization: myorg
+about: |
+  My orgainzation 
+  is the based of the 
+  applicaton
+history: >
+  You can 
+  test the integer
+  established on dec 2023
+
+products: "[Accounts] & {cards} - <Loans>"
+hasMobileApp: "Yes"

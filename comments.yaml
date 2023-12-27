@@ -1,0 +1,7 @@
+
+# Comment is support in the YAML, comment is not available in JSON
+
+# This is the comment
+# YAML support only single line comments 
+
+isSingleLine: true
