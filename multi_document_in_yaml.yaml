@@ -1,0 +1,28 @@
+#Multiple files
+---
+applications:
+  - cards:
+      name: Eazycards
+      technology: Python
+      team-size: 10
+  - accounts: 
+      name: Pankaj
+      technology: react
+      team-size: 20
+    
+...
+
+# Production Environment
+---
+applications:
+  - cards:
+      name: EazycardsMY
+      technology: Python
+      team-size: 102
+  - accounts: 
+      name: Pankaj2
+      technology: react
+      team-size: 30
+    
+...
+

@@ -1,4 +1,4 @@
-Anchors and aliased let you identify and items with
+#Anchors and aliased let you identify and items with
 definations:
   days:
     - weekday: &working
